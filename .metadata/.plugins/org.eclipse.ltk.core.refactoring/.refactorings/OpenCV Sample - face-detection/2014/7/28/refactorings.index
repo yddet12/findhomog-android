@@ -1,0 +1,5 @@
+1404849844870	Rename type 'DetectionBasedTracker'
+1404849863706	Rename resource 'DetectionBasedTracker_jni.cpp'
+1404849874645	Rename resource 'DetectionBasedTracker_jni.h'
+1404851427074	Rename method 'nativeLoop'
+1404853599017	Rename resource 'lbp-zhongppl.model'
